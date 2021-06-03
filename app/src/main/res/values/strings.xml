@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">RopstamTask</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="category_array">
+        <item>Gurgaan</item>
+        <item>Dfshore</item>
+        <item>Multiplex</item>
+    </string-array>
+
 </resources>
